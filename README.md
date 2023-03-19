@@ -1,3 +1,2 @@
-# 23-bienvenidos-JoaquinTerzano
-23-bienvenidos-JoaquinTerzano created by GitHub Classroom
-h
+# Presentación
+Soy Joaquin Terzano, tengo 21 años y vivo en Zárate con mi madre y mi hermano. Me gusta tomar mate, pensar, crear, estudiar, sentir cosas, jugar a videojuegos y ver películas. No tengo problemas para dormir, pero a veces tengo pesadillas con arañas o serpientes. Comparto algunos valores católicos pero no tengo fé. Tengo poco contacto con la realidad y me olvido de cosas importantes. Tengo empatía pero no soy moralista. No me gusta el café, el alcohol, la poesía (aunque no leo), las ideologías radicales, salir de mi zona de confort, improvisar, comentar temas personales y sacarme fotos. Tengo miopía y astigmatismo. Me gusta la carrera aunque no recuerdo por qué la elegí. Me gustaría hacer Licenciatura en Física en el Instituto Balseiro y dedicarme a la investigación.
